@@ -1,0 +1,8 @@
+com\soap\GetHuman.class
+com\soap\package-info.class
+com\soap\HumanSoap.class
+com\soap\HumanSoapImpService.class
+com\soap\Human.class
+com\soap\GetHumanResponse.class
+org\example\App.class
+com\soap\ObjectFactory.class
